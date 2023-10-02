@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nasywa Azizah Zharifah</h1>
-<h3 align="center">A student who is currently studying programming</h3>
+<!--<h1 align="center">Hi 👋, I'm Nasywa Azizah Zharifah</h1>
+<!--<h3 align="center">A student who is currently studying programming</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasywarc&label=Profile%20views&color=0e75b6&style=flat" alt="nasywarc" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasywarc&label=Profile%20views&color=0e75b6&style=flat" alt="nasywarc" /> </p> -->
 
-- 🌱 I’m currently learning **Python, Web Development**
+<!-- - 🌱 I’m currently learning **Python, Web Development** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

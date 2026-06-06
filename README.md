@@ -12,4 +12,4 @@
 
 <a href="http://www.github.com/nasywarc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nasywarc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasywarc&show_icons=true&locale=en&layout=compact&theme=dark" alt="nasywarc" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasywarc&show_icons=true&locale=en&layout=compact&theme=dark" alt="nasywarc" /></p>-->
